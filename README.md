@@ -55,6 +55,6 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-<a href="https://github.com/NathanDraco22/"><img alt="Nathan Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NathanDraco22&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/NathanDraco22/"><img alt="Nathan Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanDraco22&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
  
