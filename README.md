@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://github.com/NathanDraco22/"><img alt="Nathan Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathanDraco22&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
-
+[![](https://visitcount.itsvg.in/api?id=nathandraco22&label=Profile%20Views&color=0&icon=8&pretty=false)](https://visitcount.itsvg.in)
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=nathandraco22&label=Profile%20Views&color=0&icon=8&pretty=false" />
 </a>
